@@ -14,10 +14,10 @@ The project utilizes a created from many forms that were filled whenever an appl
 These details of the form are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
 
 The dataset is provided in CSV format and is split into a training set and a test set.
-## Required Dependancies
+## Required Dependencies
 
 
-| Dependancies | Version     | Description                |
+| Dependencies | Version     | Description                |
 | :-------- | :------- | :------------------------- |
 | `Numpy` | 1.24.3 | **Optional**. For working with arrays |
 | `Pandas` | 1.5.3 | **Required**. For dataframes and required process |
